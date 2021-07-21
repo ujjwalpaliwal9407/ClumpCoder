@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+.main{
+  height: auto;
+  width: 100%;
+}
+.heading{
+  background-color: black;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.heading h3{
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 20px;
+  }
+
+.side{
+  float: right;
+  margin-right: 10px;
+  display: flex;
+  margin: 10px;
+  align-items: center;
+}
+.search{
+  width: 80%;
+  margin: auto;
+  height:auto;
+  background-color: white;
+  border-radius: 40px;
+}
+.col{
+  margin: 10px;
+}
+.textstyle{
+  font-size: 55px;
+  font-weight: bolder;
+}
